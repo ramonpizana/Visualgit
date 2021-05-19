@@ -2,7 +2,7 @@
 
 myfunction(){
   read name 
-  if [[ "$name" == "juan" ]]; then
+  if [[ "$name" == "daniel" ]]; then
   echo "si pasas"
 elif [[ "$name" == "ramon" ]]; then
   echo "no pasas"
